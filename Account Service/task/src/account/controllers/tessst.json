@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John",
+    "lastname": "Doe",
+    "period": "March-2021",
+    "salary": "0 dollar(s) 12 cent(s)"
+  },
+  {
+    "name": "John",
+    "lastname": "Doe",
+    "period": "February-2021",
+    "salary": "4567 dollar(s) 89 cent(s)"
+  },
+  {
+    "name": "John",
+    "lastname": "Doe",
+    "period": "January-2021",
+    "salary": "1234 dollar(s) 56 cent(s)"
+  }
+]
